@@ -1,2 +1,2 @@
 # python-udp2ppp
-"like phasertag, only cooler"
+"like phasertag, it's a team sport"
